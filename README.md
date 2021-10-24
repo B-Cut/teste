@@ -1,8 +1,6 @@
-# Título
-## Subtítulo
+# Aula foda do Diogo
+## GitHub
 
-Texto qualquer
+Só colar no Diogo que é só sucesso!
 
 ---
-
-outro texto
